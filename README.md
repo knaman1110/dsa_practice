@@ -25,6 +25,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/knaman1110/dsa_practice/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/knaman1110/dsa_practice/tree/master/0009-palindrome-number) |
 ## Binary Search
 |  |
@@ -48,4 +49,12 @@
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/knaman1110/dsa_practice/tree/master/0904-fruit-into-baskets) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/knaman1110/dsa_practice/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/knaman1110/dsa_practice/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
