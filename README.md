@@ -22,6 +22,7 @@
 | [0075-sort-colors](https://github.com/knaman1110/dsa_practice/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/knaman1110/dsa_practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/knaman1110/dsa_practice/tree/master/0142-linked-list-cycle-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/knaman1110/dsa_practice/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [0002-add-two-numbers](https://github.com/knaman1110/dsa_practice/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/knaman1110/dsa_practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/knaman1110/dsa_practice/tree/master/0142-linked-list-cycle-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/knaman1110/dsa_practice/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
