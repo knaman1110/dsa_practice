@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/knaman1110/dsa_practice/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/knaman1110/dsa_practice/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/knaman1110/dsa_practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/knaman1110/dsa_practice/tree/master/0287-find-the-duplicate-number) |
 | [0904-fruit-into-baskets](https://github.com/knaman1110/dsa_practice/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
@@ -22,6 +23,7 @@
 | [0075-sort-colors](https://github.com/knaman1110/dsa_practice/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/knaman1110/dsa_practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/knaman1110/dsa_practice/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/knaman1110/dsa_practice/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/knaman1110/dsa_practice/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -40,6 +42,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/knaman1110/dsa_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/knaman1110/dsa_practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/knaman1110/dsa_practice/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -87,4 +90,13 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/knaman1110/dsa_practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/knaman1110/dsa_practice/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/knaman1110/dsa_practice/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/knaman1110/dsa_practice/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/knaman1110/dsa_practice/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
