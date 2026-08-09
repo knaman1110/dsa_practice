@@ -9,6 +9,7 @@
 | [0016-3sum-closest](https://github.com/knaman1110/dsa_practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/knaman1110/dsa_practice/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/knaman1110/dsa_practice/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/knaman1110/dsa_practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/knaman1110/dsa_practice/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/knaman1110/dsa_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/knaman1110/dsa_practice/tree/master/0287-find-the-duplicate-number) |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/knaman1110/dsa_practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/knaman1110/dsa_practice/tree/master/0053-maximum-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -103,4 +105,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/knaman1110/dsa_practice/tree/master/0287-find-the-duplicate-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/knaman1110/dsa_practice/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
