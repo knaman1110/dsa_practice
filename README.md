@@ -25,6 +25,7 @@
 | [0141-linked-list-cycle](https://github.com/knaman1110/dsa_practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/knaman1110/dsa_practice/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/knaman1110/dsa_practice/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/knaman1110/dsa_practice/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/knaman1110/dsa_practice/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/knaman1110/dsa_practice/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
@@ -79,11 +80,13 @@
 | [0002-add-two-numbers](https://github.com/knaman1110/dsa_practice/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/knaman1110/dsa_practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/knaman1110/dsa_practice/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/knaman1110/dsa_practice/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/knaman1110/dsa_practice/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/knaman1110/dsa_practice/tree/master/0002-add-two-numbers) |
+| [0234-palindrome-linked-list](https://github.com/knaman1110/dsa_practice/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
 | ------- |
@@ -109,4 +112,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/knaman1110/dsa_practice/tree/master/0053-maximum-subarray) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/knaman1110/dsa_practice/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
