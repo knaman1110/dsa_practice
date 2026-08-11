@@ -21,6 +21,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/knaman1110/dsa_practice/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/knaman1110/dsa_practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/knaman1110/dsa_practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/knaman1110/dsa_practice/tree/master/0018-4sum) |
@@ -96,6 +97,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/knaman1110/dsa_practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/knaman1110/dsa_practice/tree/master/0005-longest-palindromic-substring) |
 | [0076-minimum-window-substring](https://github.com/knaman1110/dsa_practice/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/knaman1110/dsa_practice/tree/master/0424-longest-repeating-character-replacement) |
 ## Floyd's Cycle Finding Algorithm
@@ -116,6 +118,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/knaman1110/dsa_practice/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/knaman1110/dsa_practice/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/knaman1110/dsa_practice/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/knaman1110/dsa_practice/tree/master/0918-maximum-sum-circular-subarray) |
@@ -133,4 +136,8 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/knaman1110/dsa_practice/tree/master/0918-maximum-sum-circular-subarray) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/knaman1110/dsa_practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
