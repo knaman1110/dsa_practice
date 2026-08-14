@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/knaman1110/dsa_practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/knaman1110/dsa_practice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/knaman1110/dsa_practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/knaman1110/dsa_practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/knaman1110/dsa_practice/tree/master/0018-4sum) |
@@ -106,6 +107,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/knaman1110/dsa_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/knaman1110/dsa_practice/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/knaman1110/dsa_practice/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/knaman1110/dsa_practice/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/knaman1110/dsa_practice/tree/master/0424-longest-repeating-character-replacement) |
 ## Floyd's Cycle Finding Algorithm
@@ -148,4 +150,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/knaman1110/dsa_practice/tree/master/0005-longest-palindromic-substring) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/knaman1110/dsa_practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
