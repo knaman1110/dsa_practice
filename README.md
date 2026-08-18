@@ -34,6 +34,7 @@
 | [0016-3sum-closest](https://github.com/knaman1110/dsa_practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/knaman1110/dsa_practice/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/knaman1110/dsa_practice/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/knaman1110/dsa_practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/knaman1110/dsa_practice/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/knaman1110/dsa_practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/knaman1110/dsa_practice/tree/master/0142-linked-list-cycle-ii) |
@@ -118,6 +119,7 @@
 | [0005-longest-palindromic-substring](https://github.com/knaman1110/dsa_practice/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/knaman1110/dsa_practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/knaman1110/dsa_practice/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/knaman1110/dsa_practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/knaman1110/dsa_practice/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/knaman1110/dsa_practice/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/knaman1110/dsa_practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -180,4 +182,20 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/knaman1110/dsa_practice/tree/master/0020-valid-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/knaman1110/dsa_practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/knaman1110/dsa_practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/knaman1110/dsa_practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/knaman1110/dsa_practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
