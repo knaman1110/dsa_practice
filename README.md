@@ -59,6 +59,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/knaman1110/dsa_practice/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/knaman1110/dsa_practice/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/knaman1110/dsa_practice/tree/master/0029-divide-two-integers) |
 | [0202-happy-number](https://github.com/knaman1110/dsa_practice/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
@@ -138,6 +139,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/knaman1110/dsa_practice/tree/master/0029-divide-two-integers) |
 | [0287-find-the-duplicate-number](https://github.com/knaman1110/dsa_practice/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
