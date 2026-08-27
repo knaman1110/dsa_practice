@@ -127,6 +127,7 @@
 | [0014-longest-common-prefix](https://github.com/knaman1110/dsa_practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/knaman1110/dsa_practice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/knaman1110/dsa_practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/knaman1110/dsa_practice/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/knaman1110/dsa_practice/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/knaman1110/dsa_practice/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/knaman1110/dsa_practice/tree/master/0383-ransom-note) |
@@ -155,6 +156,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/knaman1110/dsa_practice/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/knaman1110/dsa_practice/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/knaman1110/dsa_practice/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/knaman1110/dsa_practice/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/knaman1110/dsa_practice/tree/master/0918-maximum-sum-circular-subarray) |
@@ -164,6 +166,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/knaman1110/dsa_practice/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/knaman1110/dsa_practice/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/knaman1110/dsa_practice/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/knaman1110/dsa_practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/knaman1110/dsa_practice/tree/master/0739-daily-temperatures) |
@@ -198,6 +201,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/knaman1110/dsa_practice/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/knaman1110/dsa_practice/tree/master/0032-longest-valid-parentheses) |
 ## String Matching
 |  |
 | ------- |
