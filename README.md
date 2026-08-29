@@ -61,6 +61,7 @@
 | [0009-palindrome-number](https://github.com/knaman1110/dsa_practice/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/knaman1110/dsa_practice/tree/master/0029-divide-two-integers) |
 | [0202-happy-number](https://github.com/knaman1110/dsa_practice/tree/master/0202-happy-number) |
+| [0507-perfect-number](https://github.com/knaman1110/dsa_practice/tree/master/0507-perfect-number) |
 ## Binary Search
 |  |
 | ------- |
