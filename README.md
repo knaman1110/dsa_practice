@@ -17,6 +17,7 @@
 | [0152-maximum-product-subarray](https://github.com/knaman1110/dsa_practice/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/knaman1110/dsa_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/knaman1110/dsa_practice/tree/master/0287-find-the-duplicate-number) |
+| [0485-max-consecutive-ones](https://github.com/knaman1110/dsa_practice/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/knaman1110/dsa_practice/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/knaman1110/dsa_practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/knaman1110/dsa_practice/tree/master/0560-subarray-sum-equals-k) |
