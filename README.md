@@ -17,6 +17,7 @@
 | [0152-maximum-product-subarray](https://github.com/knaman1110/dsa_practice/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/knaman1110/dsa_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/knaman1110/dsa_practice/tree/master/0287-find-the-duplicate-number) |
+| [0396-rotate-function](https://github.com/knaman1110/dsa_practice/tree/master/0396-rotate-function) |
 | [0485-max-consecutive-ones](https://github.com/knaman1110/dsa_practice/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/knaman1110/dsa_practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/knaman1110/dsa_practice/tree/master/0503-next-greater-element-ii) |
@@ -63,6 +64,7 @@
 | [0009-palindrome-number](https://github.com/knaman1110/dsa_practice/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/knaman1110/dsa_practice/tree/master/0029-divide-two-integers) |
 | [0202-happy-number](https://github.com/knaman1110/dsa_practice/tree/master/0202-happy-number) |
+| [0396-rotate-function](https://github.com/knaman1110/dsa_practice/tree/master/0396-rotate-function) |
 | [0507-perfect-number](https://github.com/knaman1110/dsa_practice/tree/master/0507-perfect-number) |
 ## Binary Search
 |  |
@@ -164,6 +166,7 @@
 | [0032-longest-valid-parentheses](https://github.com/knaman1110/dsa_practice/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/knaman1110/dsa_practice/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/knaman1110/dsa_practice/tree/master/0152-maximum-product-subarray) |
+| [0396-rotate-function](https://github.com/knaman1110/dsa_practice/tree/master/0396-rotate-function) |
 | [0918-maximum-sum-circular-subarray](https://github.com/knaman1110/dsa_practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/knaman1110/dsa_practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/knaman1110/dsa_practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
