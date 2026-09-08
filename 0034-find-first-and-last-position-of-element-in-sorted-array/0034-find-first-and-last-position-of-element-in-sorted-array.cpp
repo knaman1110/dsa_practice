@@ -1,0 +1,43 @@
+class Solution {
+public:
+    vector<int> searchRange(vector<int>& nums, int target) {
+        int n = nums.size();
+        int low = 0;
+        int high = n-1;
+        int first = -1;
+        
+        while(low <= high){
+            int guess = (low+high)/2;
+            if(nums[guess]<target){
+                low = guess+1;
+            }
+            else if(nums[guess]>target){
+                high = guess-1;
+            }
+            else{
+                first = guess;
+                high = guess-1;
+            }
+        }
+
+         low = 0;
+        high = n - 1;
+        int last = -1;
+
+        while(low <= high){
+            int mid = (low+high)/2;
+            if(nums[mid]<target){
+                low = mid+1;
+            }
+            else if(nums[mid]>target){
+                high = mid-1;
+            }
+            else{
+                last = mid;
+                low = mid+1;
+            }
+        }
+
+        return {first,last};    
+    }
+};
