@@ -29,6 +29,7 @@
 | [0503-next-greater-element-ii](https://github.com/knaman1110/dsa_practice/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/knaman1110/dsa_practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/knaman1110/dsa_practice/tree/master/0560-subarray-sum-equals-k) |
+| [0697-degree-of-an-array](https://github.com/knaman1110/dsa_practice/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/knaman1110/dsa_practice/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/knaman1110/dsa_practice/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/knaman1110/dsa_practice/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -126,6 +127,7 @@
 | [0496-next-greater-element-i](https://github.com/knaman1110/dsa_practice/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/knaman1110/dsa_practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/knaman1110/dsa_practice/tree/master/0560-subarray-sum-equals-k) |
+| [0697-degree-of-an-array](https://github.com/knaman1110/dsa_practice/tree/master/0697-degree-of-an-array) |
 | [0904-fruit-into-baskets](https://github.com/knaman1110/dsa_practice/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/knaman1110/dsa_practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/knaman1110/dsa_practice/tree/master/1189-maximum-number-of-balloons) |
