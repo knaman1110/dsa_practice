@@ -20,6 +20,7 @@
 | [0152-maximum-product-subarray](https://github.com/knaman1110/dsa_practice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/knaman1110/dsa_practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/knaman1110/dsa_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/knaman1110/dsa_practice/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/knaman1110/dsa_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/knaman1110/dsa_practice/tree/master/0287-find-the-duplicate-number) |
 | [0396-rotate-function](https://github.com/knaman1110/dsa_practice/tree/master/0396-rotate-function) |
@@ -279,4 +280,20 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/knaman1110/dsa_practice/tree/master/0852-peak-index-in-a-mountain-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/knaman1110/dsa_practice/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/knaman1110/dsa_practice/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/knaman1110/dsa_practice/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/knaman1110/dsa_practice/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
