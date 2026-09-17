@@ -40,6 +40,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/knaman1110/dsa_practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/knaman1110/dsa_practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/knaman1110/dsa_practice/tree/master/0986-interval-list-intersections) |
+| [0997-find-the-town-judge](https://github.com/knaman1110/dsa_practice/tree/master/0997-find-the-town-judge) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/knaman1110/dsa_practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/knaman1110/dsa_practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
@@ -135,6 +136,7 @@
 | [0697-degree-of-an-array](https://github.com/knaman1110/dsa_practice/tree/master/0697-degree-of-an-array) |
 | [0904-fruit-into-baskets](https://github.com/knaman1110/dsa_practice/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/knaman1110/dsa_practice/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0997-find-the-town-judge](https://github.com/knaman1110/dsa_practice/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/knaman1110/dsa_practice/tree/master/1189-maximum-number-of-balloons) |
 ## Linked List
 |  |
@@ -302,4 +304,8 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/knaman1110/dsa_practice/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/knaman1110/dsa_practice/tree/master/0200-number-of-islands) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/knaman1110/dsa_practice/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
