@@ -68,6 +68,7 @@
 | [0234-palindrome-linked-list](https://github.com/knaman1110/dsa_practice/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/knaman1110/dsa_practice/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/knaman1110/dsa_practice/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/knaman1110/dsa_practice/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/knaman1110/dsa_practice/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/knaman1110/dsa_practice/tree/master/0917-reverse-only-letters) |
 | [0986-interval-list-intersections](https://github.com/knaman1110/dsa_practice/tree/master/0986-interval-list-intersections) |
@@ -192,6 +193,7 @@
 | [0402-remove-k-digits](https://github.com/knaman1110/dsa_practice/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/knaman1110/dsa_practice/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/knaman1110/dsa_practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/knaman1110/dsa_practice/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/knaman1110/dsa_practice/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/knaman1110/dsa_practice/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/knaman1110/dsa_practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
