@@ -42,6 +42,7 @@
 | [0896-monotonic-array](https://github.com/knaman1110/dsa_practice/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/knaman1110/dsa_practice/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/knaman1110/dsa_practice/tree/master/0918-maximum-sum-circular-subarray) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/knaman1110/dsa_practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/knaman1110/dsa_practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/knaman1110/dsa_practice/tree/master/0986-interval-list-intersections) |
 | [0997-find-the-town-judge](https://github.com/knaman1110/dsa_practice/tree/master/0997-find-the-town-judge) |
@@ -150,6 +151,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/knaman1110/dsa_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0697-degree-of-an-array](https://github.com/knaman1110/dsa_practice/tree/master/0697-degree-of-an-array) |
 | [0904-fruit-into-baskets](https://github.com/knaman1110/dsa_practice/tree/master/0904-fruit-into-baskets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/knaman1110/dsa_practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/knaman1110/dsa_practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0997-find-the-town-judge](https://github.com/knaman1110/dsa_practice/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/knaman1110/dsa_practice/tree/master/1189-maximum-number-of-balloons) |
@@ -216,6 +218,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/knaman1110/dsa_practice/tree/master/0287-find-the-duplicate-number) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/knaman1110/dsa_practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Dynamic Programming
 |  |
 | ------- |
