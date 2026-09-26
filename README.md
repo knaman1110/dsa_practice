@@ -93,6 +93,7 @@
 | [0396-rotate-function](https://github.com/knaman1110/dsa_practice/tree/master/0396-rotate-function) |
 | [0400-nth-digit](https://github.com/knaman1110/dsa_practice/tree/master/0400-nth-digit) |
 | [0507-perfect-number](https://github.com/knaman1110/dsa_practice/tree/master/0507-perfect-number) |
+| [0593-valid-square](https://github.com/knaman1110/dsa_practice/tree/master/0593-valid-square) |
 ## Binary Search
 |  |
 | ------- |
@@ -357,4 +358,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/knaman1110/dsa_practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Geometry
+|  |
+| ------- |
+| [0593-valid-square](https://github.com/knaman1110/dsa_practice/tree/master/0593-valid-square) |
 <!---LeetCode Topics End-->
