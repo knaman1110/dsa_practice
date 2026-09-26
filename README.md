@@ -27,6 +27,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/knaman1110/dsa_practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/knaman1110/dsa_practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/knaman1110/dsa_practice/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/knaman1110/dsa_practice/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/knaman1110/dsa_practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0396-rotate-function](https://github.com/knaman1110/dsa_practice/tree/master/0396-rotate-function) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/knaman1110/dsa_practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -82,6 +83,7 @@
 | [0056-merge-intervals](https://github.com/knaman1110/dsa_practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/knaman1110/dsa_practice/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/knaman1110/dsa_practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/knaman1110/dsa_practice/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/knaman1110/dsa_practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Math
 |  |
@@ -117,6 +119,7 @@
 | [0053-maximum-subarray](https://github.com/knaman1110/dsa_practice/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/knaman1110/dsa_practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/knaman1110/dsa_practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/knaman1110/dsa_practice/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/knaman1110/dsa_practice/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sliding Window
 |  |
@@ -142,6 +145,7 @@
 | [0141-linked-list-cycle](https://github.com/knaman1110/dsa_practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/knaman1110/dsa_practice/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/knaman1110/dsa_practice/tree/master/0202-happy-number) |
+| [0347-top-k-frequent-elements](https://github.com/knaman1110/dsa_practice/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/knaman1110/dsa_practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/knaman1110/dsa_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/knaman1110/dsa_practice/tree/master/0409-longest-palindrome) |
@@ -302,6 +306,7 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/knaman1110/dsa_practice/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/knaman1110/dsa_practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/knaman1110/dsa_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/knaman1110/dsa_practice/tree/master/1189-maximum-number-of-balloons) |
@@ -345,6 +350,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/knaman1110/dsa_practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/knaman1110/dsa_practice/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/knaman1110/dsa_practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Binary Indexed Tree
 |  |
@@ -358,8 +364,13 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/knaman1110/dsa_practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/knaman1110/dsa_practice/tree/master/0347-top-k-frequent-elements) |
 ## Geometry
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/knaman1110/dsa_practice/tree/master/0593-valid-square) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/knaman1110/dsa_practice/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
