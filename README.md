@@ -86,6 +86,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/knaman1110/dsa_practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/knaman1110/dsa_practice/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/knaman1110/dsa_practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/knaman1110/dsa_practice/tree/master/0389-find-the-difference) |
 ## Math
 |  |
 | ------- |
@@ -149,6 +150,7 @@
 | [0347-top-k-frequent-elements](https://github.com/knaman1110/dsa_practice/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/knaman1110/dsa_practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/knaman1110/dsa_practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/knaman1110/dsa_practice/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/knaman1110/dsa_practice/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/knaman1110/dsa_practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/knaman1110/dsa_practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -198,6 +200,7 @@
 | [0344-reverse-string](https://github.com/knaman1110/dsa_practice/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/knaman1110/dsa_practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/knaman1110/dsa_practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/knaman1110/dsa_practice/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/knaman1110/dsa_practice/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/knaman1110/dsa_practice/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/knaman1110/dsa_practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -220,6 +223,7 @@
 | [0029-divide-two-integers](https://github.com/knaman1110/dsa_practice/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/knaman1110/dsa_practice/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/knaman1110/dsa_practice/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/knaman1110/dsa_practice/tree/master/0389-find-the-difference) |
 ## Pigeonhole Principle
 |  |
 | ------- |
