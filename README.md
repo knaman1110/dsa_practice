@@ -71,6 +71,7 @@
 | [0234-palindrome-linked-list](https://github.com/knaman1110/dsa_practice/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/knaman1110/dsa_practice/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/knaman1110/dsa_practice/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/knaman1110/dsa_practice/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/knaman1110/dsa_practice/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/knaman1110/dsa_practice/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/knaman1110/dsa_practice/tree/master/0917-reverse-only-letters) |
@@ -201,6 +202,7 @@
 | [0383-ransom-note](https://github.com/knaman1110/dsa_practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/knaman1110/dsa_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/knaman1110/dsa_practice/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/knaman1110/dsa_practice/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/knaman1110/dsa_practice/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/knaman1110/dsa_practice/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/knaman1110/dsa_practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -236,6 +238,7 @@
 | [0032-longest-valid-parentheses](https://github.com/knaman1110/dsa_practice/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/knaman1110/dsa_practice/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/knaman1110/dsa_practice/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/knaman1110/dsa_practice/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/knaman1110/dsa_practice/tree/master/0396-rotate-function) |
 | [0918-maximum-sum-circular-subarray](https://github.com/knaman1110/dsa_practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/knaman1110/dsa_practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
