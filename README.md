@@ -166,6 +166,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/knaman1110/dsa_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0697-degree-of-an-array](https://github.com/knaman1110/dsa_practice/tree/master/0697-degree-of-an-array) |
 | [0767-reorganize-string](https://github.com/knaman1110/dsa_practice/tree/master/0767-reorganize-string) |
+| [0771-jewels-and-stones](https://github.com/knaman1110/dsa_practice/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/knaman1110/dsa_practice/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/knaman1110/dsa_practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/knaman1110/dsa_practice/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -216,6 +217,7 @@
 | [0443-string-compression](https://github.com/knaman1110/dsa_practice/tree/master/0443-string-compression) |
 | [0551-student-attendance-record-i](https://github.com/knaman1110/dsa_practice/tree/master/0551-student-attendance-record-i) |
 | [0767-reorganize-string](https://github.com/knaman1110/dsa_practice/tree/master/0767-reorganize-string) |
+| [0771-jewels-and-stones](https://github.com/knaman1110/dsa_practice/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/knaman1110/dsa_practice/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/knaman1110/dsa_practice/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/knaman1110/dsa_practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
