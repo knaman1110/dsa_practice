@@ -214,6 +214,7 @@
 | [0409-longest-palindrome](https://github.com/knaman1110/dsa_practice/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/knaman1110/dsa_practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/knaman1110/dsa_practice/tree/master/0443-string-compression) |
+| [0551-student-attendance-record-i](https://github.com/knaman1110/dsa_practice/tree/master/0551-student-attendance-record-i) |
 | [0767-reorganize-string](https://github.com/knaman1110/dsa_practice/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/knaman1110/dsa_practice/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/knaman1110/dsa_practice/tree/master/0917-reverse-only-letters) |
