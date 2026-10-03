@@ -54,6 +54,7 @@
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/knaman1110/dsa_practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1191-k-concatenation-maximum-sum](https://github.com/knaman1110/dsa_practice/tree/master/1191-k-concatenation-maximum-sum) |
 | [1395-count-number-of-teams](https://github.com/knaman1110/dsa_practice/tree/master/1395-count-number-of-teams) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/knaman1110/dsa_practice/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/knaman1110/dsa_practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
 |  |
@@ -95,6 +96,7 @@
 | [0389-find-the-difference](https://github.com/knaman1110/dsa_practice/tree/master/0389-find-the-difference) |
 | [0502-ipo](https://github.com/knaman1110/dsa_practice/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/knaman1110/dsa_practice/tree/master/0767-reorganize-string) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/knaman1110/dsa_practice/tree/master/1619-mean-of-array-after-removing-some-elements) |
 ## Math
 |  |
 | ------- |
