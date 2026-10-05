@@ -131,6 +131,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/knaman1110/dsa_practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/knaman1110/dsa_practice/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/knaman1110/dsa_practice/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/knaman1110/dsa_practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/knaman1110/dsa_practice/tree/master/0240-search-a-2d-matrix-ii) |
@@ -182,6 +183,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/knaman1110/dsa_practice/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/knaman1110/dsa_practice/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/knaman1110/dsa_practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/knaman1110/dsa_practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/knaman1110/dsa_practice/tree/master/0061-rotate-list) |
@@ -380,6 +382,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/knaman1110/dsa_practice/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/knaman1110/dsa_practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/knaman1110/dsa_practice/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/knaman1110/dsa_practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -407,4 +410,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/knaman1110/dsa_practice/tree/master/0347-top-k-frequent-elements) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/knaman1110/dsa_practice/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/knaman1110/dsa_practice/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
