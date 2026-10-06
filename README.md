@@ -41,6 +41,7 @@
 | [0525-contiguous-array](https://github.com/knaman1110/dsa_practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/knaman1110/dsa_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0630-course-schedule-iii](https://github.com/knaman1110/dsa_practice/tree/master/0630-course-schedule-iii) |
+| [0643-maximum-average-subarray-i](https://github.com/knaman1110/dsa_practice/tree/master/0643-maximum-average-subarray-i) |
 | [0697-degree-of-an-array](https://github.com/knaman1110/dsa_practice/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/knaman1110/dsa_practice/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/knaman1110/dsa_practice/tree/master/0739-daily-temperatures) |
@@ -144,6 +145,7 @@
 | [0076-minimum-window-substring](https://github.com/knaman1110/dsa_practice/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/knaman1110/dsa_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/knaman1110/dsa_practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/knaman1110/dsa_practice/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/knaman1110/dsa_practice/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
