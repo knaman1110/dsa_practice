@@ -40,6 +40,7 @@
 | [0503-next-greater-element-ii](https://github.com/knaman1110/dsa_practice/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/knaman1110/dsa_practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/knaman1110/dsa_practice/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/knaman1110/dsa_practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/knaman1110/dsa_practice/tree/master/0630-course-schedule-iii) |
 | [0643-maximum-average-subarray-i](https://github.com/knaman1110/dsa_practice/tree/master/0643-maximum-average-subarray-i) |
 | [0697-degree-of-an-array](https://github.com/knaman1110/dsa_practice/tree/master/0697-degree-of-an-array) |
@@ -97,6 +98,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/knaman1110/dsa_practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/knaman1110/dsa_practice/tree/master/0389-find-the-difference) |
 | [0502-ipo](https://github.com/knaman1110/dsa_practice/tree/master/0502-ipo) |
+| [0628-maximum-product-of-three-numbers](https://github.com/knaman1110/dsa_practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/knaman1110/dsa_practice/tree/master/0630-course-schedule-iii) |
 | [0767-reorganize-string](https://github.com/knaman1110/dsa_practice/tree/master/0767-reorganize-string) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/knaman1110/dsa_practice/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -112,6 +114,7 @@
 | [0400-nth-digit](https://github.com/knaman1110/dsa_practice/tree/master/0400-nth-digit) |
 | [0507-perfect-number](https://github.com/knaman1110/dsa_practice/tree/master/0507-perfect-number) |
 | [0593-valid-square](https://github.com/knaman1110/dsa_practice/tree/master/0593-valid-square) |
+| [0628-maximum-product-of-three-numbers](https://github.com/knaman1110/dsa_practice/tree/master/0628-maximum-product-of-three-numbers) |
 ## Binary Search
 |  |
 | ------- |
