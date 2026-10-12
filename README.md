@@ -46,6 +46,7 @@
 | [0697-degree-of-an-array](https://github.com/knaman1110/dsa_practice/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/knaman1110/dsa_practice/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/knaman1110/dsa_practice/tree/master/0739-daily-temperatures) |
+| [0845-longest-mountain-in-array](https://github.com/knaman1110/dsa_practice/tree/master/0845-longest-mountain-in-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/knaman1110/dsa_practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0896-monotonic-array](https://github.com/knaman1110/dsa_practice/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/knaman1110/dsa_practice/tree/master/0904-fruit-into-baskets) |
@@ -81,6 +82,7 @@
 | [0344-reverse-string](https://github.com/knaman1110/dsa_practice/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/knaman1110/dsa_practice/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/knaman1110/dsa_practice/tree/master/0443-string-compression) |
+| [0845-longest-mountain-in-array](https://github.com/knaman1110/dsa_practice/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/knaman1110/dsa_practice/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/knaman1110/dsa_practice/tree/master/0917-reverse-only-letters) |
 | [0986-interval-list-intersections](https://github.com/knaman1110/dsa_practice/tree/master/0986-interval-list-intersections) |
@@ -268,6 +270,7 @@
 | [0368-largest-divisible-subset](https://github.com/knaman1110/dsa_practice/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/knaman1110/dsa_practice/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/knaman1110/dsa_practice/tree/master/0396-rotate-function) |
+| [0845-longest-mountain-in-array](https://github.com/knaman1110/dsa_practice/tree/master/0845-longest-mountain-in-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/knaman1110/dsa_practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/knaman1110/dsa_practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1191-k-concatenation-maximum-sum](https://github.com/knaman1110/dsa_practice/tree/master/1191-k-concatenation-maximum-sum) |
@@ -426,4 +429,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/knaman1110/dsa_practice/tree/master/0023-merge-k-sorted-lists) |
+## Enumeration
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/knaman1110/dsa_practice/tree/master/0845-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
