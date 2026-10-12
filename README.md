@@ -241,6 +241,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/knaman1110/dsa_practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/knaman1110/dsa_practice/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/knaman1110/dsa_practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [3798-largest-even-number](https://github.com/knaman1110/dsa_practice/tree/master/3798-largest-even-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
