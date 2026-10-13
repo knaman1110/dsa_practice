@@ -34,6 +34,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/knaman1110/dsa_practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0396-rotate-function](https://github.com/knaman1110/dsa_practice/tree/master/0396-rotate-function) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/knaman1110/dsa_practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/knaman1110/dsa_practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/knaman1110/dsa_practice/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/knaman1110/dsa_practice/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/knaman1110/dsa_practice/tree/master/0502-ipo) |
@@ -115,6 +116,7 @@
 | [0390-elimination-game](https://github.com/knaman1110/dsa_practice/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/knaman1110/dsa_practice/tree/master/0396-rotate-function) |
 | [0400-nth-digit](https://github.com/knaman1110/dsa_practice/tree/master/0400-nth-digit) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/knaman1110/dsa_practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/knaman1110/dsa_practice/tree/master/0507-perfect-number) |
 | [0593-valid-square](https://github.com/knaman1110/dsa_practice/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/knaman1110/dsa_practice/tree/master/0628-maximum-product-of-three-numbers) |
