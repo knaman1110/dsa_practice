@@ -41,6 +41,7 @@
 | [0503-next-greater-element-ii](https://github.com/knaman1110/dsa_practice/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/knaman1110/dsa_practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/knaman1110/dsa_practice/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/knaman1110/dsa_practice/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/knaman1110/dsa_practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/knaman1110/dsa_practice/tree/master/0630-course-schedule-iii) |
 | [0643-maximum-average-subarray-i](https://github.com/knaman1110/dsa_practice/tree/master/0643-maximum-average-subarray-i) |
@@ -101,6 +102,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/knaman1110/dsa_practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/knaman1110/dsa_practice/tree/master/0389-find-the-difference) |
 | [0502-ipo](https://github.com/knaman1110/dsa_practice/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/knaman1110/dsa_practice/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/knaman1110/dsa_practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/knaman1110/dsa_practice/tree/master/0630-course-schedule-iii) |
 | [0767-reorganize-string](https://github.com/knaman1110/dsa_practice/tree/master/0767-reorganize-string) |
@@ -181,6 +183,7 @@
 | [0496-next-greater-element-i](https://github.com/knaman1110/dsa_practice/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/knaman1110/dsa_practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/knaman1110/dsa_practice/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/knaman1110/dsa_practice/tree/master/0621-task-scheduler) |
 | [0697-degree-of-an-array](https://github.com/knaman1110/dsa_practice/tree/master/0697-degree-of-an-array) |
 | [0767-reorganize-string](https://github.com/knaman1110/dsa_practice/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/knaman1110/dsa_practice/tree/master/0771-jewels-and-stones) |
@@ -351,6 +354,7 @@
 | [0347-top-k-frequent-elements](https://github.com/knaman1110/dsa_practice/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/knaman1110/dsa_practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/knaman1110/dsa_practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/knaman1110/dsa_practice/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/knaman1110/dsa_practice/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/knaman1110/dsa_practice/tree/master/1189-maximum-number-of-balloons) |
 ## Greedy
@@ -359,6 +363,7 @@
 | [0402-remove-k-digits](https://github.com/knaman1110/dsa_practice/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/knaman1110/dsa_practice/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/knaman1110/dsa_practice/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/knaman1110/dsa_practice/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/knaman1110/dsa_practice/tree/master/0630-course-schedule-iii) |
 | [0767-reorganize-string](https://github.com/knaman1110/dsa_practice/tree/master/0767-reorganize-string) |
 ## Ternary Search
@@ -401,6 +406,7 @@
 | [0347-top-k-frequent-elements](https://github.com/knaman1110/dsa_practice/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/knaman1110/dsa_practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/knaman1110/dsa_practice/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/knaman1110/dsa_practice/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/knaman1110/dsa_practice/tree/master/0630-course-schedule-iii) |
 | [0767-reorganize-string](https://github.com/knaman1110/dsa_practice/tree/master/0767-reorganize-string) |
 ## Binary Indexed Tree
