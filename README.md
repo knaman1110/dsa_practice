@@ -115,6 +115,7 @@
 | [0009-palindrome-number](https://github.com/knaman1110/dsa_practice/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/knaman1110/dsa_practice/tree/master/0029-divide-two-integers) |
 | [0202-happy-number](https://github.com/knaman1110/dsa_practice/tree/master/0202-happy-number) |
+| [0326-power-of-three](https://github.com/knaman1110/dsa_practice/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/knaman1110/dsa_practice/tree/master/0368-largest-divisible-subset) |
 | [0390-elimination-game](https://github.com/knaman1110/dsa_practice/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/knaman1110/dsa_practice/tree/master/0396-rotate-function) |
@@ -215,6 +216,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/knaman1110/dsa_practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/knaman1110/dsa_practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/knaman1110/dsa_practice/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/knaman1110/dsa_practice/tree/master/0326-power-of-three) |
 | [0390-elimination-game](https://github.com/knaman1110/dsa_practice/tree/master/0390-elimination-game) |
 ## String
 |  |
