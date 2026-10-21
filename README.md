@@ -252,6 +252,7 @@
 | [0520-detect-capital](https://github.com/knaman1110/dsa_practice/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/knaman1110/dsa_practice/tree/master/0551-student-attendance-record-i) |
 | [0567-permutation-in-string](https://github.com/knaman1110/dsa_practice/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/knaman1110/dsa_practice/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/knaman1110/dsa_practice/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/knaman1110/dsa_practice/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/knaman1110/dsa_practice/tree/master/0796-rotate-string) |
@@ -289,6 +290,7 @@
 | [0368-largest-divisible-subset](https://github.com/knaman1110/dsa_practice/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/knaman1110/dsa_practice/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/knaman1110/dsa_practice/tree/master/0396-rotate-function) |
+| [0678-valid-parenthesis-string](https://github.com/knaman1110/dsa_practice/tree/master/0678-valid-parenthesis-string) |
 | [0845-longest-mountain-in-array](https://github.com/knaman1110/dsa_practice/tree/master/0845-longest-mountain-in-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/knaman1110/dsa_practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/knaman1110/dsa_practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -305,6 +307,7 @@
 | [0402-remove-k-digits](https://github.com/knaman1110/dsa_practice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/knaman1110/dsa_practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/knaman1110/dsa_practice/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/knaman1110/dsa_practice/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/knaman1110/dsa_practice/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/knaman1110/dsa_practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/knaman1110/dsa_practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -338,6 +341,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/knaman1110/dsa_practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/knaman1110/dsa_practice/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/knaman1110/dsa_practice/tree/master/0678-valid-parenthesis-string) |
 ## String Matching
 |  |
 | ------- |
@@ -382,6 +386,7 @@
 | [0502-ipo](https://github.com/knaman1110/dsa_practice/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/knaman1110/dsa_practice/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/knaman1110/dsa_practice/tree/master/0630-course-schedule-iii) |
+| [0678-valid-parenthesis-string](https://github.com/knaman1110/dsa_practice/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/knaman1110/dsa_practice/tree/master/0767-reorganize-string) |
 ## Ternary Search
 |  |
