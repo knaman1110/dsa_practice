@@ -87,6 +87,7 @@
 | [0344-reverse-string](https://github.com/knaman1110/dsa_practice/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/knaman1110/dsa_practice/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/knaman1110/dsa_practice/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/knaman1110/dsa_practice/tree/master/0567-permutation-in-string) |
 | [0845-longest-mountain-in-array](https://github.com/knaman1110/dsa_practice/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/knaman1110/dsa_practice/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/knaman1110/dsa_practice/tree/master/0917-reverse-only-letters) |
@@ -160,6 +161,7 @@
 | [0076-minimum-window-substring](https://github.com/knaman1110/dsa_practice/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/knaman1110/dsa_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/knaman1110/dsa_practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/knaman1110/dsa_practice/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/knaman1110/dsa_practice/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/knaman1110/dsa_practice/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
@@ -188,6 +190,7 @@
 | [0496-next-greater-element-i](https://github.com/knaman1110/dsa_practice/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/knaman1110/dsa_practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/knaman1110/dsa_practice/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/knaman1110/dsa_practice/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/knaman1110/dsa_practice/tree/master/0621-task-scheduler) |
 | [0697-degree-of-an-array](https://github.com/knaman1110/dsa_practice/tree/master/0697-degree-of-an-array) |
 | [0767-reorganize-string](https://github.com/knaman1110/dsa_practice/tree/master/0767-reorganize-string) |
@@ -248,6 +251,7 @@
 | [0443-string-compression](https://github.com/knaman1110/dsa_practice/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/knaman1110/dsa_practice/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/knaman1110/dsa_practice/tree/master/0551-student-attendance-record-i) |
+| [0567-permutation-in-string](https://github.com/knaman1110/dsa_practice/tree/master/0567-permutation-in-string) |
 | [0767-reorganize-string](https://github.com/knaman1110/dsa_practice/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/knaman1110/dsa_practice/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/knaman1110/dsa_practice/tree/master/0796-rotate-string) |
