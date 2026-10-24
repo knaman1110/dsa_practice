@@ -127,6 +127,7 @@
 | [0390-elimination-game](https://github.com/knaman1110/dsa_practice/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/knaman1110/dsa_practice/tree/master/0396-rotate-function) |
 | [0400-nth-digit](https://github.com/knaman1110/dsa_practice/tree/master/0400-nth-digit) |
+| [0415-add-strings](https://github.com/knaman1110/dsa_practice/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/knaman1110/dsa_practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/knaman1110/dsa_practice/tree/master/0507-perfect-number) |
 | [0593-valid-square](https://github.com/knaman1110/dsa_practice/tree/master/0593-valid-square) |
@@ -252,6 +253,7 @@
 | [0392-is-subsequence](https://github.com/knaman1110/dsa_practice/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/knaman1110/dsa_practice/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/knaman1110/dsa_practice/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/knaman1110/dsa_practice/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/knaman1110/dsa_practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/knaman1110/dsa_practice/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/knaman1110/dsa_practice/tree/master/0520-detect-capital) |
@@ -470,4 +472,8 @@
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/knaman1110/dsa_practice/tree/master/0845-longest-mountain-in-array) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/knaman1110/dsa_practice/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
