@@ -52,6 +52,7 @@
 | [0697-degree-of-an-array](https://github.com/knaman1110/dsa_practice/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/knaman1110/dsa_practice/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/knaman1110/dsa_practice/tree/master/0739-daily-temperatures) |
+| [0792-number-of-matching-subsequences](https://github.com/knaman1110/dsa_practice/tree/master/0792-number-of-matching-subsequences) |
 | [0845-longest-mountain-in-array](https://github.com/knaman1110/dsa_practice/tree/master/0845-longest-mountain-in-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/knaman1110/dsa_practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0896-monotonic-array](https://github.com/knaman1110/dsa_practice/tree/master/0896-monotonic-array) |
@@ -116,6 +117,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/knaman1110/dsa_practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/knaman1110/dsa_practice/tree/master/0630-course-schedule-iii) |
 | [0767-reorganize-string](https://github.com/knaman1110/dsa_practice/tree/master/0767-reorganize-string) |
+| [0792-number-of-matching-subsequences](https://github.com/knaman1110/dsa_practice/tree/master/0792-number-of-matching-subsequences) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/knaman1110/dsa_practice/tree/master/1619-mean-of-array-after-removing-some-elements) |
 ## Math
 |  |
@@ -151,6 +153,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/knaman1110/dsa_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/knaman1110/dsa_practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/knaman1110/dsa_practice/tree/master/0400-nth-digit) |
+| [0792-number-of-matching-subsequences](https://github.com/knaman1110/dsa_practice/tree/master/0792-number-of-matching-subsequences) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/knaman1110/dsa_practice/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
 |  |
@@ -204,6 +207,7 @@
 | [0697-degree-of-an-array](https://github.com/knaman1110/dsa_practice/tree/master/0697-degree-of-an-array) |
 | [0767-reorganize-string](https://github.com/knaman1110/dsa_practice/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/knaman1110/dsa_practice/tree/master/0771-jewels-and-stones) |
+| [0792-number-of-matching-subsequences](https://github.com/knaman1110/dsa_practice/tree/master/0792-number-of-matching-subsequences) |
 | [0904-fruit-into-baskets](https://github.com/knaman1110/dsa_practice/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/knaman1110/dsa_practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/knaman1110/dsa_practice/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -265,6 +269,7 @@
 | [0678-valid-parenthesis-string](https://github.com/knaman1110/dsa_practice/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/knaman1110/dsa_practice/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/knaman1110/dsa_practice/tree/master/0771-jewels-and-stones) |
+| [0792-number-of-matching-subsequences](https://github.com/knaman1110/dsa_practice/tree/master/0792-number-of-matching-subsequences) |
 | [0796-rotate-string](https://github.com/knaman1110/dsa_practice/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/knaman1110/dsa_practice/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/knaman1110/dsa_practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -301,6 +306,7 @@
 | [0392-is-subsequence](https://github.com/knaman1110/dsa_practice/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/knaman1110/dsa_practice/tree/master/0396-rotate-function) |
 | [0678-valid-parenthesis-string](https://github.com/knaman1110/dsa_practice/tree/master/0678-valid-parenthesis-string) |
+| [0792-number-of-matching-subsequences](https://github.com/knaman1110/dsa_practice/tree/master/0792-number-of-matching-subsequences) |
 | [0845-longest-mountain-in-array](https://github.com/knaman1110/dsa_practice/tree/master/0845-longest-mountain-in-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/knaman1110/dsa_practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/knaman1110/dsa_practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -338,6 +344,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/knaman1110/dsa_practice/tree/master/0014-longest-common-prefix) |
+| [0792-number-of-matching-subsequences](https://github.com/knaman1110/dsa_practice/tree/master/0792-number-of-matching-subsequences) |
 ## Quicksort
 |  |
 | ------- |
