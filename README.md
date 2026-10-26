@@ -67,6 +67,7 @@
 | [1395-count-number-of-teams](https://github.com/knaman1110/dsa_practice/tree/master/1395-count-number-of-teams) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/knaman1110/dsa_practice/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/knaman1110/dsa_practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2217-find-palindrome-with-fixed-length](https://github.com/knaman1110/dsa_practice/tree/master/2217-find-palindrome-with-fixed-length) |
 ## Two Pointers
 |  |
 | ------- |
@@ -138,6 +139,7 @@
 | [0509-fibonacci-number](https://github.com/knaman1110/dsa_practice/tree/master/0509-fibonacci-number) |
 | [0593-valid-square](https://github.com/knaman1110/dsa_practice/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/knaman1110/dsa_practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [2217-find-palindrome-with-fixed-length](https://github.com/knaman1110/dsa_practice/tree/master/2217-find-palindrome-with-fixed-length) |
 ## Binary Search
 |  |
 | ------- |
