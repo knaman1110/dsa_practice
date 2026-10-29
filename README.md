@@ -36,6 +36,7 @@
 | [0368-largest-divisible-subset](https://github.com/knaman1110/dsa_practice/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/knaman1110/dsa_practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0396-rotate-function](https://github.com/knaman1110/dsa_practice/tree/master/0396-rotate-function) |
+| [0414-third-maximum-number](https://github.com/knaman1110/dsa_practice/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/knaman1110/dsa_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/knaman1110/dsa_practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/knaman1110/dsa_practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -113,6 +114,7 @@
 | [0368-largest-divisible-subset](https://github.com/knaman1110/dsa_practice/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/knaman1110/dsa_practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/knaman1110/dsa_practice/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/knaman1110/dsa_practice/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/knaman1110/dsa_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/knaman1110/dsa_practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0502-ipo](https://github.com/knaman1110/dsa_practice/tree/master/0502-ipo) |
