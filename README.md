@@ -135,6 +135,7 @@
 | [0009-palindrome-number](https://github.com/knaman1110/dsa_practice/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/knaman1110/dsa_practice/tree/master/0029-divide-two-integers) |
 | [0202-happy-number](https://github.com/knaman1110/dsa_practice/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/knaman1110/dsa_practice/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/knaman1110/dsa_practice/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/knaman1110/dsa_practice/tree/master/0368-largest-divisible-subset) |
 | [0390-elimination-game](https://github.com/knaman1110/dsa_practice/tree/master/0390-elimination-game) |
@@ -511,10 +512,15 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/knaman1110/dsa_practice/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/knaman1110/dsa_practice/tree/master/0415-add-strings) |
 ## Memoization
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/knaman1110/dsa_practice/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/knaman1110/dsa_practice/tree/master/0509-fibonacci-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/knaman1110/dsa_practice/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
