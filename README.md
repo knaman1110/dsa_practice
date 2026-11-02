@@ -138,6 +138,7 @@
 | [0258-add-digits](https://github.com/knaman1110/dsa_practice/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/knaman1110/dsa_practice/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/knaman1110/dsa_practice/tree/master/0368-largest-divisible-subset) |
+| [0371-sum-of-two-integers](https://github.com/knaman1110/dsa_practice/tree/master/0371-sum-of-two-integers) |
 | [0390-elimination-game](https://github.com/knaman1110/dsa_practice/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/knaman1110/dsa_practice/tree/master/0396-rotate-function) |
 | [0400-nth-digit](https://github.com/knaman1110/dsa_practice/tree/master/0400-nth-digit) |
@@ -307,6 +308,7 @@
 | [0029-divide-two-integers](https://github.com/knaman1110/dsa_practice/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/knaman1110/dsa_practice/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/knaman1110/dsa_practice/tree/master/0287-find-the-duplicate-number) |
+| [0371-sum-of-two-integers](https://github.com/knaman1110/dsa_practice/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/knaman1110/dsa_practice/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/knaman1110/dsa_practice/tree/master/0397-integer-replacement) |
 ## Pigeonhole Principle
